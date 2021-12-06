@@ -9,7 +9,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yi-an-ko0413/](https://www.linkedin.com/in/yi-an-ko0413/)
 
-- ⚡ Fun fact **I have worked as a debt collector in a legal-tech company.**
+- ⚡ Fun fact 
+  - **I have worked as a debt collector in a legal-tech company.**
+  - **I thought the icon of Ruby on Rails is a tenticle until I took a closer look while learning it**
 
 - 🎮 I also like to play games on PS4 and PC, if you play Dota 2 or LoL, and you love games with rich story line(s) you have a warmer welcome from me😇
 
