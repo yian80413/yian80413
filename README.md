@@ -1,5 +1,6 @@
 <h1 align="center">Hello I'm Yi-An 🤗</h1>
 <h3 align="center">A passionate web dev</h3>
+
 - 👩🏻‍🎓 I am a fresh graduate from the **Le Wagon Coding Bootcamp- Web Dev Programm**
 
 - 👨‍💻 I am currently looking for a **web dev job**
