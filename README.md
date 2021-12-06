@@ -1,10 +1,15 @@
 <h1 align="center">Hello I'm Yi-An 🤗</h1>
 <h3 align="center">A passionate web dev</h3>
 - 👩🏻‍🎓 I am a fresh graduate from the **Le Wagon Coding Bootcamp- Web Dev Programm**
+
 - 👨‍💻 I am currently looking for a **web dev job**
+
 - 📫 How to reach me **yianko@gmx.de**
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/yi-an-ko0413/](https://www.linkedin.com/in/yi-an-ko0413/)
+
 - ⚡ Fun fact **I have worked as a debt collector in a legal-tech company.**
+
 - 🎮 I also like to play games on PS4 and PC, if you play Dota 2 or LoL, and you love games with rich story line(s) you have a warmer welcome from me😇
 
 <h3 align="left">Connect with me:</h3>
