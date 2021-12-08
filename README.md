@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yianko@gmx.de**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yi-an-ko0413/](https://www.linkedin.com/in/yi-an-ko0413/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/yi-an-ko0413/](https://www.linkedin.com/in/yianko0413/)
 
 - ⚡ Fun fact 
   - **I have worked as a debt collector in a legal-tech company.**
